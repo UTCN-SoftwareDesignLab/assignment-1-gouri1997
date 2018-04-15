@@ -1,0 +1,24 @@
+
+Date: 2018-04-11
+From Account:  222  To Account:   222    Amount:  12
+
+
+Date: 2018-04-11
+From Account:  222  To Account:   GAZ    Amount:  13
+
+
+Date: 2018-04-11
+From Account:  222  To Account:   222    Amount:  1
+
+
+Date: 2018-04-11
+From Account:  222  To Account:   RDS    Amount:  1
+
+
+Date: 2018-04-13
+From Account:  222  To Account:   DIGI24    Amount:  11
+
+
+Date: 2018-04-15
+From Account:  333  To Account:   GOOGLE    Amount:  100
+
